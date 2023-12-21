@@ -1,0 +1,4 @@
+Model,Accuracy,f1 Score,Precision,Recall
+XGBoost,0.51,0.6,0.83,0.51
+Random Forest,0.67,0.66,0.66,0.67
+Decision Tree,NA,NA,NA,NA

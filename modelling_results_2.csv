@@ -1,0 +1,4 @@
+"Model","Accuracy","f1 Score","Precision","Recall"
+"XGBoost",0.79,0.79,0.79,0.79
+"Random Forest",0.78,0.78,0.78,0.78
+"Decision Tree",0.75,0.75,0.75,0.75

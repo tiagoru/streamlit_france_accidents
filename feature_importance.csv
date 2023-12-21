@@ -1,0 +1,10 @@
+Variable,Decision Tree,Random Forest,XGBoost
+agg,yes,yes,no
+catu,yes,yes,yes
+catv,yes,yes,yes
+choc,no,yes,yes
+col,yes,yes,yes
+num_veh,yes,yes,yes
+obs,yes,yes,yes
+obsm,yes,yes,yes
+sexe,yes,yes,yes
