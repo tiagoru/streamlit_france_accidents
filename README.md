@@ -1,25 +1,36 @@
-# streamlit_france_accidents
-author: Tiago Russomanno
+# Streamlit France Accidents app
+### final version
 
-Streamlit interface for the final project at Datascientist for predicting car accidents in France 
+Author: Tiago Russomanno
 
-Description of the project:
+Streamlit interface for the final project at Datascientist, focusing on predicting car accidents in France.
+## Project Description
 
-The objective of this project is to try to predict the severity of road accidents in France. Predictions will be based on historical data. It is a perfect problem to deal with all the stages of a Data Science project. A first step is to study and apply methods to clean the dataset. Once the dataset is clean, a second step is to extract from the match history the characteristics that seem to be relevant for estimating the severity of accidents. Then, from its results, the objective is to work on a scoring of the risk zones according to the meteorological information, the geographical location (GPS coordinates, satellite images, …). Once the model has been trained, we will compare our model with historical data.
-Data:
+The primary goal of this project is to predict the severity of road accidents in France based on historical data. This project encompasses all stages of a Data Science project, providing a comprehensive exploration of predictive modeling. The project workflow includes:
 
-https://www.data.gouv.fr/en/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2019/
+    Data Cleaning: Study and application of methods to clean the dataset, ensuring quality input for the predictive model.
+    Feature Extraction: Extraction of relevant characteristics from historical data to estimate accident severity.
+    Scoring of Risk Zones: Utilizing model results to score risk zones based on meteorological information, geographical location (GPS coordinates), satellite images, etc.
+    Model Training: Development of a predictive model using machine learning techniques.
+    Model Comparison: Comparison of the trained model's predictions with historical data.
 
-https://www.kaggle.com/ahmedlahlou/accidents-in-france-from-2005-to-2016
-Bibliography:
+## Data Sources
 
-Bases de données annuelles des accidents corporels de la circulation routière - Années de 2005 à 2020 - data.gouv.fr
-Validation conditions for the project:
+    Data.gouv.fr - Bases de données annuelles des accidents corporels de la circulation routière (2005-2019)
+    Kaggle - Accidents in France (2005-2016)
 
-    an exploration, data visualization and data pre-processing report;
+## Bibliography
 
-    a modeling report;
+    Bases de données annuelles des accidents corporels de la circulation routière - Années de 2005 à 2020 - data.gouv.fr
 
-    a final report and associated GitHub.
+## Validation Conditions
 
-Link to document https://docs.google.com/document/d/1m2ibEY6n6zcnqqxuJWyTgvIjmhyGQADBCmZThVQnQpA/edit
+The validation conditions for the project include:
+
+    An exploration, data visualization, and data pre-processing report.
+    A modeling report.
+    A final report and associated GitHub repository.
+
+## Documentation
+
+Link to the project document: https://docs.google.com/document/d/1m2ibEY6n6zcnqqxuJWyTgvIjmhyGQADBCmZThVQnQpA/edit
