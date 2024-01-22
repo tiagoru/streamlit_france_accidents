@@ -1,5 +1,6 @@
 # streamlit_france_accidents
- 
+author: Tiago Russomanno
+
 Streamlit interface for the final project at Datascientist for predicting car accidents in France 
 
 Description of the project:
